@@ -9620,14 +9620,7 @@ Header CSS 01 Start
   position: relative;
   z-index: 1;
 }
-.cl_breadcrumb-content-list span::before {
-  display: inline-block;
-  font-family: "Font Awesome 6 Pro";
-  content: "\f105";
-  font-size: 14px;
-  font-weight: 500;
-  margin-right: 10px;
-}
+
 
 /* ///////////////////////////////////////////////////////////
 23. faq
